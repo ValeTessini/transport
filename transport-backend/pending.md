@@ -1,0 +1,1 @@
+- Cuando agregue lo de AuthZ y AuthN revisar CommercialEntityController porque falta agregar algo ahi. 
